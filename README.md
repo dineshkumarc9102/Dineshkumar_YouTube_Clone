@@ -1,8 +1,19 @@
-# React + Vite
+# 📺 YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+YouTube clone that integrates with the **YouTube Data API v3** to provide a seamless video streaming experience. The app allows users to **view details and watch videos** directly within the platform, much like the original YouTube interface. 🚀🎥
 
-Currently, two official plugins are available:
+## 🌟 Features
+- 🎬 **Seamless Video Streaming**
+- 📜 **Detailed Video Information**
+- 🖥️ **Modern UI & Fast Performance**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend:** React.js, Vite, TailwindCSS
+- **API:** YouTube Data API v3
+- **Hosting:** Netlify
+
+## 🚀 Live Demo
+🔗 **[YouTube Clone Live](https://dineshkumarc-youtube-clone.netlify.app/)**
+
+---
+**Experience a fast and intuitive YouTube-like platform! 🚀📺**
