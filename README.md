@@ -8,7 +8,7 @@ YouTube clone that integrates with the **YouTube Data API v3** to provide a seam
 - 🖥️ **Modern UI & Fast Performance**
 
 ## 🛠 Tech Stack
-- **Frontend:** React.js, Vite, TailwindCSS
+- **Frontend:** React.js, Vite
 - **API:** YouTube Data API v3
 - **Hosting:** Netlify
 
